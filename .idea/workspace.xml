@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0507f3ae-c0c6-48c5-a2d0-227e336feb92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalculoTicketMedio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculoTicketMedio.java" afterDir="false" />
+    <list default="true" id="0507f3ae-c0c6-48c5-a2d0-227e336feb92" name="Changes" comment="finished&#10;F">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoTicketMedio" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +16,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NOPpCDDotpFW1ZPBEtLlafwLkI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -44,11 +46,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679532339662</updated>
-      <workItem from="1679532339936" duration="378000" />
+      <workItem from="1679532339936" duration="801000" />
     </task>
+    <task id="LOCAL-00001" summary="finished">
+      <created>1679532760958</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679532760958</updated>
+    </task>
+    <task id="LOCAL-00002" summary="finished&#10;F">
+      <created>1679533069679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679533069679</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished" />
+    <MESSAGE value="finished&#10;F" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished&#10;F" />
   </component>
 </project>
